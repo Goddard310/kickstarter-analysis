@@ -10,9 +10,11 @@ One challenge is that the categories weren't a good determinant of success.  How
 ### Analysis of Outcomes Based on Launch Date
 - We defined Lauch Date by month
 - May and June clearly had the highest success rates and should be targeted
-- The winter months of Nov-Jan, and potentially Feb, should be avoided
+- The winter months of Nov-Jan, and potentially Feb, should be avoided <br />
+![Alt text](https://github.com/Goddard310/kickstarter-analysis/blob/f481bef22ce111c6e2d98663909a1ac91034a79c/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-Clearly the lower goals had less success for plays, and those made up the bulk of the failed campaigns.  Above $5,000, the goal had little effect on the outcome of the campaign for plays.  
+Clearly the lower goals had less success for plays, and those made up the bulk of the failed campaigns.  Above $5,000, the goal had little effect on the outcome of the campaign for plays. <br />
+![Alt text](https://github.com/Goddard310/kickstarter-analysis/blob/f481bef22ce111c6e2d98663909a1ac91034a79c/Outcomes_v_Goals.png)
 ### Challenges and Difficulties Encountered
 As a new analyst, there were challenges with syntax, and this project took longer than one would expect.  I doubt Louise would be thrilled with the turnaround time.  
 ## Results
